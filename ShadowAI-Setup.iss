@@ -17,7 +17,7 @@ AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 
-DefaultDirName={autopf}\{#MyAppName}
+DefaultDirName={localappdata}\Programs\{#MyAppName}
 UninstallDisplayIcon={app}\{#MyAppExeName}
 
 ArchitecturesAllowed=x64compatible
